@@ -37,7 +37,6 @@ const PayForBlob = () => {
       setStatus("There was an error sending the transaction.");
     }
   };
-
   return (
     <div>
       <h1>PayForBlob</h1>
